@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NASA Photos</string>
+    <string name="S_ISS_STATION">ISS Station</string>
+    <string name="S_ISS_POSITION">Position of the ISS Station</string>
+    <string name="S_MOON">Moon</string>
+    <string name="S_MOON_PHASES">Moon phases</string>
+    <string name="S_SUN">Sun</string>
+    <string name="S_SUN_STAINS">Stains in the Sun</string>
+    <string name="S_RETURN">Return</string>
+    <string name="Witaj_1">Witaj w apce:</string>
+    <string name="name">NASA Photos</string>
+</resources>
